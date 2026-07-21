@@ -1,2 +1,29 @@
-# javascript-playground
-A structured JavaScript learning repository covering fundamentals, browser APIs, modern JavaScript (ES6+), coding exercises, and interview preparation.
+# JavaScript Playground
+
+A structured repository for learning JavaScript from fundamentals to advanced concepts.
+
+## Topics
+
+- [x] Variables
+- [ ] Data Types
+- [ ] Operators
+- [ ] Conditions
+- [ ] Loops
+- [ ] Functions
+- [ ] Arrays
+- [ ] Objects
+- [ ] String Methods
+- [ ] Array Methods
+- [ ] DOM Manipulation
+- [ ] Events
+- [ ] ES6+
+- [ ] Asynchronous JavaScript
+- [ ] Browser APIs
+- [ ] Memory Management
+
+## Goals
+
+- Learn JavaScript fundamentals
+- Write clean and maintainable code
+- Prepare for JavaScript interviews
+- Build a strong foundation before React
