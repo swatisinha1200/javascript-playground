@@ -5,10 +5,10 @@ A structured repository for learning JavaScript from fundamentals to advanced co
 ## Topics
 
 - [x] Variables
-- [ ] Data Types
-- [ ] Operators
-- [ ] Conditions
-- [ ] Loops
+- [x] Data Types
+- [x] Operators
+- [x] Conditions
+- [x] Loops
 - [ ] Functions
 - [ ] Arrays
 - [ ] Objects
